@@ -3,9 +3,9 @@
 Este repositório contém o código-fonte de uma Landing Page focada em destacar a importância e os impactos positivos do ensino de tecnologia para crianças e adolescentes. 
 
 ## 📚 Contexto Acadêmico
-[cite_start]Este projeto foi desenvolvido como parte da atividade da disciplina de **Engenharia de Software 2** [cite: 4][cite_start], referente à **Aula 12 - Gestão de Configuração e Versão**[cite: 5, 6]. 
+Este projeto foi desenvolvido como parte da atividade da disciplina de **Engenharia de Software 2**, referente à **Aula 12 - Gestão de Configuração e Versão**. 
 
-[cite_start]O objetivo principal deste repositório não é apenas o desenvolvimento web, mas demonstrar na prática o uso de boas práticas do Git, aplicando especificamente o fluxo de trabalho de ramificação de recurso (**Feature Branch Workflow**)[cite: 34].
+O objetivo principal deste repositório não é apenas o desenvolvimento web, mas demonstrar na prática o uso de boas práticas do Git, aplicando especificamente o fluxo de trabalho de ramificação de recurso (**Feature Branch Workflow**).
 
 ## 🎯 O Projeto
 A nossa landing page busca conscientizar pais, responsáveis e educadores sobre como o aprendizado de programação e pensamento computacional desde cedo pode desenvolver habilidades cruciais para o futuro dos jovens, como resolução de problemas, criatividade e raciocínio lógico.
@@ -30,10 +30,10 @@ Para atender aos requisitos da atividade prática, este repositório seguiu o se
 4. **Merge:** Integração das funcionalidades finalizadas de volta ao fluxo principal (`main`), garantindo a estabilidade do software.
 
 ## 👥 Membros do Grupo
-* [Nome do Integrante 1] - Responsável pelo Tutorial Git (Questão 1)
-* [Nome do Integrante 2] - Responsável pela Pesquisa de Workflows (Questão 2)
-* [Nome do Integrante 3] - Responsável pelo Desenvolvimento e Versionamento (Questão 3)
-* [Nome do Integrante 4] - Revisão e Integração
+* Beatriz Amaral - Responsável pelo Tutorial Git (Questão 1)
+* Pedro Sobreira e Heitor Mesquita - Responsável pela Pesquisa de Workflows (Questão 2)
+* Arthur Malveste e Arthur Nero - Responsável pelo Desenvolvimento e Versionamento (Questão 3)
+
 
 ## 🚀 Como executar o projeto localmente
 1. Clone este repositório: `git clone <link-do-seu-repositorio>`
